@@ -1,0 +1,26 @@
+.header {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.nav-items {
+    align-items: center;
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > li {
+    padding: 24px;
+}
+
+.nav-items > img {
+    width: 48px;
+    padding-right: 16px;
+}
