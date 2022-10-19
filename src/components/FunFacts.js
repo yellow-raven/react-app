@@ -1,6 +1,6 @@
 function FunFacts() {
     return (
-        <div>
+        <div className="section">
             <h2>Fun facts about React</h2>
             <ul>
                 <li>Was released in 2013</li>

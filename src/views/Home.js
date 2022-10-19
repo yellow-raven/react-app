@@ -2,7 +2,7 @@ import './Home.css'
 import Header from '../components/header/Header.js'
 import FunFacts from '../components/FunFacts.js'
 import Reasons from '../components/Reasons.js'
-import Footer from '../components/Footer.js'
+import Footer from '../components/footer/Footer.js'
 
 function Home() {
   return (
